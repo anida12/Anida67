@@ -1,5 +1,5 @@
-from PyQt5 import QtCore, QtGui, QtWidgets
 import mysql.connector as mc
+from PyQt5 import QtCore, QtGui, QtWidgets
 
 class Ui_Form(object):
     def setupUi(self, Form):
